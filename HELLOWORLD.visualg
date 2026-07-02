@@ -1,0 +1,11 @@
+algoritmo "helloworld"
+
+var
+
+inicio
+
+  //comando de saida
+  escreval("Hello World!")
+  escreval("Curso logica de programação")
+
+fimalgoritmo
