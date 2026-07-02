@@ -1,2 +1,3 @@
 # VisuAlg
-Alguns exemplos de logica de programação que estive aprendendo.
+
+Atividades de Interpretamento de algoritmo e codigos.
