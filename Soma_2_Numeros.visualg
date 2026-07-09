@@ -1,0 +1,26 @@
+algoritmo "Soma_2_Numeros"
+
+var
+//seçao de declaração de variaveiss
+  A : inteiro
+  B, C : inteiro 
+
+inicio
+  //fase entrada de dados
+
+  //comando de entrada
+  escreva("Digite um numero: ")
+
+  //comando de saida
+  leia(A)
+
+  escreva("Digite outro numero: ")
+  leia(B)
+
+  //processamento
+  C <- A + B
+
+  //fase saida de dados
+  escreva(C)
+
+fimalgoritmo
