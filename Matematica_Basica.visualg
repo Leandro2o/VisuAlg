@@ -1,0 +1,31 @@
+algoritmo "Matematica_Basica"
+
+var
+// Seção de Declaração de Variaveis
+n1, n2, som, sub, mul, divi, total : inteiro
+
+inicio
+// Entrada de Dados
+escreval("Digite um numero: ")
+leia(n1)
+
+escreval("Digite outro numero: ")
+leia(n2)
+
+//Processamento
+// som <- n1 + n2
+// sub <- n1 - n2
+// mul <- n1 * n2
+total <- n1 + n2
+escreval("Soma = ", total)
+total <- n1 - n2
+escreval("Subtração = ", total)
+total <- n1 * n2
+escreval("Multiplicação = ", total)
+
+//Saida de Dados
+// escreval("Soma = ", som)
+// escreval("Subtração = ", sub)
+// escreval("Multiplicação = ", mul)
+
+fimalgoritmo
