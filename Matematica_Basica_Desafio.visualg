@@ -1,0 +1,26 @@
+algoritmo "Matematica_Basica_Desafio"
+
+var
+// Seção de Declaração de Variaveis
+n1, n2, n3, total : inteiro
+
+inicio
+// Entrada de Dados
+escreval("Digite O Primeiro Numero: ")
+leia(n1)
+
+escreval("Digite o Segundo Numero: ")
+leia(n2)
+
+escreval("Digite o Terceiro Numero: ")
+leia(n3)
+
+//Processamento
+total <- n1 + n2 + n3
+escreval("Soma = ", total)
+total <- n1 - n2 - n3
+escreval("Subtração = ", total)
+total <- n1 * n2 * n3
+escreval("Multiplicação = ", total)
+
+fimalgoritmo
